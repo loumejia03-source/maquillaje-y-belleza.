@@ -1,0 +1,45 @@
+# style.css
+
+```css
+/* Estilo general de la página */
+body {
+    background-color: #ffe6f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 40px;
+}
+
+/* Color y tamaño del título principal */
+h1 {
+    color: #c2185b;
+    font-size: 42px;
+}
+
+/* Encabezados secundarios */
+h2 {
+    color: #9c4778;
+    font-size: 28px;
+}
+
+/* Tamaño y estilo de los párrafos */
+p {
+    color: #4a4a4a;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+/* Imagen */
+img {
+    width: 450px;
+    max-width: 90%;
+    border-radius: 20px;
+    margin: 15px;
+}
+
+/* Enlace activo */
+a {
+    color: #c2185b;
+    font-size: 20px;
+    font-weight: bold;
+}
+```
